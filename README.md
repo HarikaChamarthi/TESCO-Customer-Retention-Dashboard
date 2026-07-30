@@ -143,3 +143,8 @@ This project was completed as part of the **Data Science with AI** training prog
 ## Author
 
 **Harika Chamarthi**
+
+GitHub: https://github.com/HarikaChamarthi
+
+LinkedIn: https://linkedin.com/in/harika-chamarthi-4a253928b
+
